@@ -19,7 +19,7 @@ Instructions:
 3. Usefull information:
     - visit <https://connectionstrings.com> for more information about connection strings
     - ADODB connection is used to connect to destination database
-    - data are inserted into database based on column names, not column order
+    - data is uploaded to database based on column names, not column order
     - column order may differ between <Source Table> and <Target Table> in a database
     - at least one pair of column names (Excel / database) must match
     - <Target Table> must exist (it is not created if does not exist)
