@@ -24,7 +24,7 @@ By selecting cells you can format/transform values:
 
 ### 1.2 Advanced Filter
 
-Advanced filter allows you to filter multiple values at once with any separator (new line, comma, space etc.). You can easily copy-pase values you want to filter. For more information follow these [instructions](https://github.com/lukasheinz92/elliot/new/main#advanced-filter).
+Advanced filter allows you to filter multiple values at once with any separator (new line, comma, space etc.). You can easily copy-pase values you want to filter. For more information follow these [instructions](https://github.com/lukasheinz92/elliot/blob/main/HELP%20-%20Advanced%20Filter.md#advanced-filter).
 
 ### 1.3 SQL
 
@@ -32,11 +32,11 @@ There are two tools - SQL Editor and Upload To SQL Database.
 
 ### 1.3.1 SQL Editor
 
-SQL Editor allows you to use standard SQL query to work with your sheets. For more information follow these [instructions](https://github.com/lukasheinz92/elliot/new/main#sql-editor).
+SQL Editor allows you to use standard SQL query to work with your sheets. For more information follow these [instructions](https://github.com/lukasheinz92/elliot/blob/main/HELP%20-%20SQL%20Editor.md#sql-editor).
 
 ### 1.3.2 Upload to SQL Database
 
-If you need to quickly upload your data from a sheet to your SQL database, you can use this tool. It is suitable only for small datasets due to slow performance. This tool is inspired by [https://www.excel-sql-server.com/excel-sql-server-import-export-using-vba.htm](https://www.excel-sql-server.com/excel-sql-server-import-export-using-vba.htm). For more information follow these [instructions](https://github.com/lukasheinz92/elliot/new/main#upload-to-sql-database).
+If you need to quickly upload your data from a sheet to your SQL database, you can use this tool. It is suitable only for small datasets due to slow performance. This tool is inspired by [https://www.excel-sql-server.com/excel-sql-server-import-export-using-vba.htm](https://www.excel-sql-server.com/excel-sql-server-import-export-using-vba.htm). For more information follow these [instructions](https://github.com/lukasheinz92/elliot/blob/main/HELP%20-%20Upload%20To%20SQL%20Database.md#upload-to-sql-database).
 
 ### 1.4 Workbook
 
