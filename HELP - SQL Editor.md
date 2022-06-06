@@ -3,7 +3,7 @@
 [Elliot](https://github.com/lukasheinz92/elliot/blob/main/README.md#elliot)
 
 Instructions:
-1. You can use SELECT, UPDATE and INSERT INTO queries.
+1. You can use SELECT, UPDATE and INSERT INTO statements.
 2. Use a sheet name as a table name in SQL query (very long sheet name may not work).
 3. If a column or table name contains space/s, put them into [...] (square brackets).
 4. No column in the query can have the exact same name as any sheet in the workbook.
