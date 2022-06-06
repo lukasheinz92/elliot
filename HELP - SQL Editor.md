@@ -25,7 +25,7 @@ SELECT / UPDATE / INSERT INTO:
 
 a) SELECT:
 - result of the SELECT query is inserted into new or existing sheet
-- use SELECT Query Insert INTO field on the right of the SQL Editor
+- use 'Destination Sheet' on the right of the SQL Editor
   to select existing sheet or to type a name of new sheet (will be added)
 - if you keep it empty, you will be prompted to add new sheet
 
