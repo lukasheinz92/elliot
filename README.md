@@ -7,6 +7,7 @@ Elliot is an Excel addin designed especially for analysts to provide some advanc
 1. [Tools available via Ribbon](https://github.com/lukasheinz92/elliot/edit/main/README.md#1-tools)
 2. [Functions](https://github.com/lukasheinz92/elliot/edit/main/README.md#2-functions)
 
+**[DOWNLOAD ELLIOT](https://github.com/lukasheinz92/elliot/blob/main/elliot.xlam)**
 
 ## 1. Tools
 
