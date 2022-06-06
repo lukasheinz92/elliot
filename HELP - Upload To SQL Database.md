@@ -5,8 +5,8 @@
 Instructions:
 
 1. Before using this tool, check if:
-    - you are able to connect to destination database
-    - you have appropriate access rights in the database
+    - you are able to connect to the destination database
+    - you have appropriate access rights in the destination database
     - you have proper connection driver installed on your computer (working with ADODB)
 
 2. This tool has these required and optional parameters:
