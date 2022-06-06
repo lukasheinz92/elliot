@@ -38,7 +38,7 @@ c) INSERT INTO:
   INTO Table1 Values(...)
 - keep exactly one space between these two keywords (INSERT_INTO)
 
-Error may be caused by:
+Possible Error Cases:
 - syntax error (typo)
 - case sensitivity for table names
 - using a column name with the exactly same name as any sheet name in the workbook
