@@ -24,7 +24,7 @@ Instructions:
     - at least one pair of column names (Excel / database) must match
     - *Target Table* must exist (it is not created if does not exist)
     - use *Query Before* or *Query After* if you want to transform data, create or truncate tables etc.
-    - you can enter multiple queries into *Query Before* or *Query After* - use ; (semicolon) as delimiter
+    - you can enter multiple queries into *Query Before* or *Query After* - use ; (semicolon) as a delimiter
     - optional queries must be supported by the vendor of a destination database
     - transaction is used during the export process
     - if all steps pass then transaction is committed
