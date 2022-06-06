@@ -11,7 +11,7 @@ Instructions:
 5. Spaces between single values and delimiters (even row delimiter) are trimmed.
 6. Check "Keep Filter Open" if you want to keep the window open after filtering.
 
-Error may occur primarily when:
+Possible Error Cases:
 - selected cell is out of the table
 - invalid characters are entered into the Filter Criteria window
 - you are trying to filter pivot table
