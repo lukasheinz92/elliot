@@ -14,7 +14,7 @@ Instructions:
 
 Data Types:
 - strings are defined by '...' (single quotes)
-- for date use Datevalue(...) function; Datevalue(2018-09-26)
+- for date use DATEVALUE(...) function; DATEVALUE(2018-09-26)
 - NULL is allowed
 
 You can use these wild cards (with LIKE):
