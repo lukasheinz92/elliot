@@ -38,14 +38,14 @@ Instructions:
       6. Transaction Commit
       7. Close connection
 
-4. Major error cases:
+4. Possible error cases:
     - missing paramaters
     - connection failure
     - incorrect connection string
     - connection driver missing (not installed)
-    - <Query Before> or <Query After> failure
-    - <Source Table> does not contain header
-    - <Target Table> does not exist
+    - *Query Before* or *Query After* failure
+    - *Source Table* does not contain header
+    - *Target Table* does not exist
     - no column names match (between <Source Table> and <Target Tabe>) 
 
-When an error occurs, window with error message appears. No changes in the database are made because transaction is used keep data consistent (if transaction began then it is rolled back). If connection to database was already establisted then it was also closed.
+When an error occurs, a window with error message appears. No changes in the database are made because transaction is used keep data consistent (if transaction had begun then it has been rolled back). If connection to database was already establisted then it was also closed.
