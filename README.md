@@ -1,8 +1,8 @@
 # Elliot
 
-*TODO license agreement*
+[MIT License](https://github.com/lukasheinz92/elliot/blob/main/LICENSE)
 
-Elliot is an Excel addin designed especially for analysts to provide some advanced functions. *TODO license agreement*. It consists of two components:
+Elliot is an Excel addin designed especially for analysts to provide some advanced functions. It consists of two components:
 
 1. [Tools available via Ribbon](https://github.com/lukasheinz92/elliot/edit/main/README.md#1-tools)
 2. [Functions](https://github.com/lukasheinz92/elliot/edit/main/README.md#2-functions)
