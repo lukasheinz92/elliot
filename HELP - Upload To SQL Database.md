@@ -9,12 +9,12 @@ Instructions:
     - you have appropriate access rights in the destination database
     - you have proper connection driver installed on your computer (working with ADODB)
 
-2. This tool has these required and optional parameters:
+2. Required and optional parameters:
     - Source Table ... range of cells in an Excel sheet containing data you want to upload into <Target Table>
     - Target Table ... name of a table located in the database where you want to insert your data
     - Connection String ... connectiong string of a database where you want to insert your data
-    - Query Before ... optional query which is performed before data are inserted into SQL database
-    - Query After ... optional query which is performed after data are inserted into SQL database
+    - Query Before ... (optional) query which is performed before data are inserted into SQL database
+    - Query After ... (optional) query which is performed after data are inserted into SQL database
 
 3. Usefull information:
     - visit <https://connectionstrings.com> for more information about connection strings
