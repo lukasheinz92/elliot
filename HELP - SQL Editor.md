@@ -17,7 +17,7 @@ Data Types:
 - for date use DATEVALUE(...) function; DATEVALUE(2018-09-26)
 - NULL is allowed
 
-You can use these wild cards (with LIKE):
+You can use these wild cards (with LIKE statement):
 - % (percentage) - various number of characters (including no character)
 - _ (underscore) - exactly one character
 
