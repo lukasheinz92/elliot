@@ -28,7 +28,7 @@ Instructions:
     - optional queries must be supported by the vendor of a destination database
     - transaction is used during the export process
     - if all steps pass then transaction is committed
-    - if at least one step fail then transaction is rolled back
+    - if at least one step fails then transaction is rolled back
     - the process of data load has following steps:
       1. Connection to database (using ADODB)
       2. Transaction Begin
