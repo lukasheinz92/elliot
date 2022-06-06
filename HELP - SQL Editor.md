@@ -9,7 +9,7 @@ Instructions:
 4. No column in the query can have the exact same name as any sheet in the workbook.
 5. Column and table aliases are allowed.
 6. Query is not case sensitive except table names (sheet names).
-7. MS Access query syntax (functions, INNER JOIN instead of JOIN only, etc.).
+7. Query syntax is based on MS Access (MS Access functions, INNER JOIN instead of JOIN only, etc.).
 8. Keep only one table per sheet (preferred left top corner in A1).
 
 Data Types:
